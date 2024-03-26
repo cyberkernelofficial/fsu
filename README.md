@@ -22,6 +22,7 @@ curl -s https://raw.githubusercontent.com/cyberkernelofficial/fsu/main/fsu.sh | 
 fsu
 ```
 Now, you are entered in fake super user environment.
+
 3. Now, update and upgrade it's packages:
 ```bash
 apt update -y && apt upgrade -y
