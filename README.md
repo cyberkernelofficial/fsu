@@ -1,5 +1,16 @@
 # FSU (Fake Super User) - Simulating Root Access in Termux
 
+### Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [Disclaimer](#disclaimer)
+7. [Support](#support)
+8. [License](#license)
+9. [Conclusion](#conclusion)
+
 ## Overview
 FSU (Fake Super User) is a script designed to emulate superuser or root access within the Termux environment.
 By utilizing proot-distro and Ubuntu, FSU aims to replicate the functionalities of a superuser without the need for actual root permissions.
