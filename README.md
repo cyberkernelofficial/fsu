@@ -3,13 +3,14 @@
 ### Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [Disclaimer](#disclaimer)
-7. [Support](#support)
-8. [License](#license)
-9. [Conclusion](#conclusion)
+3. [Video tutorial](#video-tutorial)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contribution](#contribution)
+7. [Disclaimer](#disclaimer)
+8. [Support](#support)
+9. [License](#license)
+10. [Conclusion](#conclusion)
 
 ## Overview
 FSU (Fake Super User) is a script designed to emulate superuser or root access within the Termux environment.
@@ -21,6 +22,9 @@ This GitHub repository provides users with a tool to enhance their Termux experi
 - **Proot-Distro Integration**: The script leverages proot-distro to establish a pseudo-chroot environment, mimicking the behavior of a root user.
 - **Ubuntu Distribution**: FSU downloads and sets up an Ubuntu environment within Termux, providing users with a familiar Linux distribution to work with.
 - **Enhanced Functionality**: Users can access a range of root-level commands and operations within the Ubuntu environment created by FSU.
+
+### Video tutorial
+[![How to Access root in termux without rooting your phone](http://img.youtube.com/vi/6r63ng_7a8c/0.jpg)](http://www.youtube.com/watch?v=6r63ng_7a8c "How to Access root in termux without rooting your phone")
 
 ### Installation
 To use FSU and set up the pseudo-root environment in Termux, follow these steps:
